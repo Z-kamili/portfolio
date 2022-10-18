@@ -60,7 +60,7 @@
 |                                                                              |
 | <gy>::</gy> <a href="https://www.youtube.com/channel/UCnNcvF8WYNnAfcMIRrlaDQw/featured"> Youtube channel    <pnk>[YouTube Link]</pnk> </a>                                       |
 |                                                                              |
-| <gy>::</gy> <a href="https://www.youtube.com/channel/UCnNcvF8WYNnAfcMIRrlaDQw/featured"> Linkedin Account   <pnk>[Linkedin Link]</pnk> </a>                                      |
+| <gy>::</gy> <a href="https://www.linkedin.com/in/zakaria-kamili-733b71150/"> Linkedin Account   <pnk>[Linkedin Link]</pnk> </a>                                      |
 |                                                                              |
 |<y>-- <w>My favorite sources  </w> ---------------------------------------------</y>        |
 |                                                                              |
