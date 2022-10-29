@@ -64,8 +64,8 @@
 |                                                                              |
 |<y>-- <w>My favorite sources  </w> ---------------------------------------------</y>        |
 |                                                                              |
-| <gy>::</gy> <a href="https://laravel.com/">Laravel  <pnk>[Laravel Website]</pnk> </a>                                               |
-|                                                                                         
+| <gy>::</gy> <a href="https://laravel.com/">Laravel <pnk>[Laravel Website]</pnk> </a>                                               |
+|                                                                              |          
 | <gy>::</gy> <a href="https://www.youtube.com/watch?v=127ng7botO4&t=654s&ab_channel=OfferZenOrigins">Laravel Origins</a> <pnk>[PHP Documentary]</pnk>                                         |
 |                                                                              |
 | <gy>::</gy> <a href="https://www.youtube.com/watch?v=SEwXlG9jxf0&list=PLfrhw4n7bwKM5SrN0AlqHhavMgjJXTqGS&index=6&ab_channel=OfferZenOrigins">Laracasts<pnk> [The story of Laracasts feat]</pnk></a>                                   |
@@ -73,6 +73,21 @@
 | <gy>::</gy> <a href="https://www.youtube.com/watch?v=ObUgYDn1zZ0&t=3352s&ab_channel=DavidBombal">Hacker hunting with Wireshark<pnk> [YouTube Link]</pnk></a>                              |
 |                                                                              |
 | <gy>::</gy> <a href="https://www.youtube.com/watch?v=kVSCFBuh9xs&ab_channel=DavidBombal">Is this the future of the Internet? UDP Deep Dive </a><pnk>[YouTube Link]</pnk>          |
+|                                                                              |
+|                                                                              |
+|<y>-- <w>My Work   </w> ---------------------------------------------</y>                   |
+|                                                                              |
+| <gy>::</gy> <a href="http://demo.lirelecoran.fr/">Coran<pnk>[Coran Website]</pnk> </a>                                                     |
+|                                                                              |                                         
+| <gy>::</gy> <a href="https://normandie-piecesauto.fr/">Normandie pieces auto</a> <pnk>[Pieces Auto Website]</pnk>                               |
+|                                                                              |
+| <gy>::</gy> <a href="https://aumondenaturel.fr/">Au Monde Natural<pnk> [Beauty Monde]</pnk></a>                                           |
+|                                                                              |
+| <gy>::</gy> <a href="https://gofood.ma/">Go Food <pnk> [Restaurant website]</pnk></a>                                             |
+|                                                                              |
+| <gy>::</gy> <a href="https://app.medtracks.fr/login">Medtracks App <pnk> [Medtracks application]</pnk></a>                                    |
+|                                                                              |
+| <gy>::</gy> <a href="https://www.infinity-tour.net/">Infinity tour </a><pnk>[Infinity-tour website]</pnk>                                     |
 |                                                                              |
 |                                                                              |
 |----------------------------zakariakamili97@gmail.com-------------------------|
