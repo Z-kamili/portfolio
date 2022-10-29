@@ -64,7 +64,7 @@
 |                                                                              |
 |<y>-- <w>My favorite sources  </w> ---------------------------------------------</y>        |
 |                                                                              |
-| <gy>::</gy> <a href="https://laravel.com/">Laravel <pnk>[Laravel Website]</pnk> </a>                                               |
+| <gy>::</gy> <a href="https://laravel.com/">Laravel <pnk>[Laravel Website]</pnk> </a>                                                |
 |                                                                              |          
 | <gy>::</gy> <a href="https://www.youtube.com/watch?v=127ng7botO4&t=654s&ab_channel=OfferZenOrigins">Laravel Origins</a> <pnk>[PHP Documentary]</pnk>                                         |
 |                                                                              |
